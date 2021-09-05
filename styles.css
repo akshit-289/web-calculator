@@ -1,0 +1,40 @@
+
+.document{
+    background-color: rgb(223, 159, 76);
+}
+.container{
+    margin-top: 30px;
+    text-align: center;
+}
+input{
+    font-size: 20px;
+    border-width: 3px;
+    border: solid;
+    border-radius: 3mm;
+}
+button{
+    font-size: larger;
+    background-color: aqua;
+    width: 55px;
+    height: 35px;
+    border-width: 2px;
+    border-radius: 2mm;
+}
+.table{
+    margin: auto;
+}
+.calculator{
+    display: inline-block;
+    background-color: #7ee22b;
+    border-radius: 15px;
+    height: 280px;
+    width: 270px;
+    padding: 10px;
+    border-width: 35px;
+    border-color: black;
+    padding: 13px;
+}
+#bkspc{
+    width: 165px;
+}
+
